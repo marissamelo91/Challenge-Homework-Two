@@ -4,10 +4,11 @@ A portfolio of work can showcase your skills and talents to employers looking to
 With these points in mind, in this Challenge you'll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables.
 
 ## Deployed Link
-[deployed link] 
+[deployed link](https://marissamelo91.github.io/Challenge-Homework-Two/)
 
 ## Screenshot of Project
-(./assets/images/Homework-Two-Screenshot.png)
+![screen shot](./assets/images/Homework-Two-Screenshot.png)
+
 
  **User Story**: This is a short, simple description of a feature told from the perspective of the person who is requesting the new capability, usually a user or customer of the system. This follows an AS AN / I WANT / SO THAT format. For example, "AS A shopper visiting an online store, I WANT to place items in a shopping cart, SO THAT I can purchase them."
 
